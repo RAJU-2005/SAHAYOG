@@ -1,7 +1,7 @@
 # 🌾 SAHAYOG  
 ### A Fair, Voice-First Employment Access System for Rural India
 
-> **Hackathon Project | Team CodeX**  
+> **Hackathon Project | Team Fusion Five**  
 > *Fair work. Simple access. Human dignity.*
 
 ---
@@ -176,10 +176,8 @@ For every data field, we ask:
 
 ## 🤝 Team
 
-**Team Name:** CodeX  
+**Team Name:** Fusion Five
 **Project:** SAHAYOG  
-**Hackathon:** Vidyashilp University – Overnight Hackathon  
-
 ---
 
 ## 📜 License
